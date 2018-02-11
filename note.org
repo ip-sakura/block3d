@@ -1,0 +1,8 @@
+* ====
+- doc
+  - http://www.torutk.com/projects/swe/wiki/JavaFX_3Dを理解する
+  - https://qiita.com/boochnich/items/0e5a34e8d8a09c9fbfa8
+
+
+  - https://stackoverflow.com/questions/35544985/java-update-stage-in-a-for-loop
+  - https://www.nakamuri.info/mw/index.php/JavaFXの座標系と座標変a換
